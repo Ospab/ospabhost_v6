@@ -1,0 +1,5 @@
+<section class="container" style="text-align:center;">
+	<h1>404 — Страница не найдена</h1>
+	<p>Извините, такой страницы не существует.</p>
+	<a href="/" class="btn btn-primary">На главную</a>
+</section>

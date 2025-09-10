@@ -1,0 +1,11 @@
+{
+	"name": "ospab/ospabhost6",
+	"description": "OspabHost6 - хостинг-платформа на PHP",
+	"type": "project",
+	"require": {},
+	"autoload": {
+		"psr-4": {
+			"App\\": "app/"
+		}
+	}
+}
